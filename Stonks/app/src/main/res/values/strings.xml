@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stonks</string>
+    <string name="add_stock">Add Stock</string>
+    <string name="symbol">Stock Symbol</string>
+    <string name="name">Stock Name</string>
+    <string name="change">change</string>
+    <string name="value">value</string>
+    <string name="title">Watch List</string>
+    <string name="data_file">DataFile.json</string>
+</resources>
